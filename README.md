@@ -1,30 +1,30 @@
 Hi there 👋 Welcome to my GitHub!
 I am Konstantinos.
 
-About Me
+About Me<br>
 I'm a mathematician with a growing passion for Computer Science, holding a Master's degree in the field.
 
-🔍 Interests & Goals
+🔍 Interests & Goals<br>
 My primary goal is to transition into the IT industry as a Software Engineer.
 
-🔧 Technical Skills
+🔧 Technical Skills<br>
 I am familiar with many tools, but I have worked the most with:
 
-Languages: Java, Python, JavaScript
-Frameworks & Tools: Spring, Angular
-Databases: MySQL, PostgreSQL
-Other: Git, Docker, VS Code, IntelliJ IDEA
+Languages: Java, Python, JavaScript<br>
+Frameworks & Tools: Spring, Angular<br>
+Databases: MySQL, PostgreSQL<br>
+Other: Git, Docker, VS Code, IntelliJ IDEA<br>
 
-🚀 Projects
+🚀 Projects<br>
 I'm currently working on several projects that I'll be sharing here on GitHub:
 
 Hospital ERP System: A comprehensive management system for hospitals built using Java, Spring, and Angular.
 Algorithm Implementations: A collection of algorithm visualization projects implemented in various programming languages.
 
-📈 Learning & Growth
+📈 Learning & Growth<br>
 I'm always eager to learn new technologies and improve my existing skill set. My GitHub will be continuously updated with new projects and contributions as I grow as a developer.
 
-📫 Let's Connect
+📫 Let's Connect<br>
 Feel free to reach out to me if you want to collaborate on a project, discuss software development, or just chat about technology.
 
 Email: constantine1212204@gmail.com
